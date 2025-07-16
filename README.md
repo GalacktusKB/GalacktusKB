@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galacktuskb&label=Profile%20views&color=0e75b6&style=flat" alt="galacktuskb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galacktuskb" alt="galacktuskb" /></a> </p>
+
+  <img src="https://github.com/user-attachments/assets/d42af332-3c4c-4702-a45b-ea003ca420eb" alt="Demo GIF" width="400" height="400" align="right">
+
+
+
 
 - 🔭 I’m currently working on [CartXpress](https://github.com/GalacktusKB/CartXpress)
 
@@ -41,4 +45,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galacktuskb&show_icons=true&locale=en" alt="galacktuskb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galacktuskb&" alt="galacktuskb" /></p>
