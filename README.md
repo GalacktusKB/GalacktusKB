@@ -10,7 +10,7 @@
 
 <!-- - 🌱 I’m currently learning **ReactJS -->
 
-- 👯 I’m looking to collaborate on [Development Projects] <!--(coming soon...) -->
+- 👯 I’m looking to collaborate on [Open Source Development Projects](https://github.com/)
 
 <!-- - 🤝 I’m looking for help with [coming soon...](coming soon...) -->
 
@@ -18,7 +18,7 @@
 
 <!-- - 📝 I regularly write articles on [coming soon...](coming soon...) -->
 
-- 💬 Ask me about **Development**
+- 💬 Ask me about **Development and Designing**
 
 - 📫 How to reach me **kuntalbarik.rajkhamar@gmail.com**
 
