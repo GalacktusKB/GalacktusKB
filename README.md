@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on [CartXpress](https://github.com/GalacktusKB/CartXpress)
 
-- 🌱 I’m currently learning **ReactJS
+<!-- - 🌱 I’m currently learning **ReactJS -->
 
-- 👯 I’m looking to collaborate on [Development Projects](coming soon...)
+- 👯 I’m looking to collaborate on [Development Projects]<!--(coming soon...) -->
 
-- 🤝 I’m looking for help with [coming soon...](coming soon...)
+<!-- - 🤝 I’m looking for help with [coming soon...](coming soon...) -->
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://kuntal-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [coming soon...](coming soon...)
+<!-- - 📝 I regularly write articles on [coming soon...](coming soon...) -->
 
 - 💬 Ask me about **Development**
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ajdrJiFYrpIWehJO1KRvWCRdoVntzDtU/view?usp=sharing](https://drive.google.com/file/d/1ajdrJiFYrpIWehJO1KRvWCRdoVntzDtU/view?usp=sharing)
 
-- ⚡ Fun fact **Coming soon....**
+<!-- - ⚡ Fun fact **Coming soon....** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
