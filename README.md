@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [CartXpress](https://github.com/GalacktusKB/CartXpress)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **ReactJS
 
 - 👯 I’m looking to collaborate on [Development Projects](coming soon...)
 
 - 🤝 I’m looking for help with [coming soon...](coming soon...)
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kuntal-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [coming soon...](coming soon...)
 
