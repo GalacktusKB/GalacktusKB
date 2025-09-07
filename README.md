@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kuntalbarik.rajkhamar@gmail.com**
 
-- 📄 Know about my experiences [updated_resume](https://drive.google.com/file/d/1ajdrJiFYrpIWehJO1KRvWCRdoVntzDtU/view?usp=sharing)
+- 📄 Know about my experiences [updated_resume](https://drive.google.com/file/d/1s8YigOnIm0B2gv814v5rHOn_760SNmGL/view?usp=sharing)
 
 <!-- - ⚡ Fun fact **Coming soon....** -->
 
