@@ -10,7 +10,7 @@
 
 <!-- - 🌱 I’m currently learning **ReactJS -->
 
-- 👯 I’m looking to collaborate on [Development Projects]<!--(coming soon...) -->
+- 👯 I’m looking to collaborate on [Development Projects] <!--(coming soon...) -->
 
 <!-- - 🤝 I’m looking for help with [coming soon...](coming soon...) -->
 
