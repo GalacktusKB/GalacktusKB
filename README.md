@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galacktuskb&label=Profile%20views&color=0e75b6&style=flat" alt="galacktuskb" /> </p>
 
-<img src="https://github.com/user-attachments/assets/b6864c4d-1b24-40d6-9f24-b1078944ff3b" alt="Demo GIF 2" width="400" height="400" align="right">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Demo GIF 2" width="400" height="400" align="right">
 
 
 - 🔭 I’m currently working on [CartXpress](https://github.com/GalacktusKB/CartXpress)
